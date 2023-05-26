@@ -17,6 +17,6 @@ if buses are not avaliable-
 ![Screenshot (6)](https://github.com/SuryaPrakash1812/BusTicket/assets/127216778/64755c4e-4363-4d19-b3d4-7c1f08923b05)
 bus search results page -
 ![Screenshot (7)](https://github.com/SuryaPrakash1812/BusTicket/assets/127216778/cfe763dc-baae-41a7-9a49-8e4f81179a56)
-seat book9=ing page-
+seat booking page-
 ![Screenshot (10)](https://github.com/SuryaPrakash1812/BusTicket/assets/127216778/056c3ace-00f5-43ce-a8a5-6e97c675ee00)
 Next user details page and last success page.

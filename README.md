@@ -19,4 +19,4 @@ bus search results page -
 ![Screenshot (7)](https://github.com/SuryaPrakash1812/BusTicket/assets/127216778/cfe763dc-baae-41a7-9a49-8e4f81179a56)
 seat book9=ing page-
 ![Screenshot (10)](https://github.com/SuryaPrakash1812/BusTicket/assets/127216778/056c3ace-00f5-43ce-a8a5-6e97c675ee00)
-at last success page.
+Next user details page and last success page.
